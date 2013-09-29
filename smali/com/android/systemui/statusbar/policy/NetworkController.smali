@@ -3539,37 +3539,37 @@
     goto/16 :goto_0
 
     :pswitch_1
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateATTDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_2
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateTMODataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_3
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateVZWDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_4
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateSPRDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_5
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateLGTDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_6
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateCMCCDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
     :pswitch_7
-    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateJPNDataNetType()V
+    invoke-direct {p0}, Lcom/android/systemui/statusbar/policy/NetworkController;->updateDataNetType()V
 
     goto/16 :goto_0
 
